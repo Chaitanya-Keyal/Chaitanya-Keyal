@@ -28,11 +28,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&show_icons=true&theme=transparent&border_radius=10&hide_title=true&card_width=469" alt="Stats">
 <img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&theme=transparent&border_radius=10&mode=weekly&card_width=469" alt="Streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Keyal&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&card_width=469&layout=compact" alt="Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&show_icons=true&theme=transparent&border_radius=10&hide_title=true&card_width=469" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanya-Keyal&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&card_width=469&layout=compact" alt="Languages">
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=%22You%20miss%20100%25%20of%20the%20shots%20you%20don%27t%20take.%0A-%20Wayne%20Gretzky%22&author=Michael%20Scott" alt="Quote">
+<img src="https://quotes-github-readme.vercel.app/api?quote=%22You%20miss%20100%25%20of%20the%20shots%20you%20don%27t%20take.%20-%20Wayne%20Gretzky%22%20-%20Michael%20Scott&author=okaybro" alt="Quote">
 <img src="https://raw.githubusercontent.com/Chaitanya-Keyal/Chaitanya-Keyal/output/snake.svg" alt="Snake animation">
