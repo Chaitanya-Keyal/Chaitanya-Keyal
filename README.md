@@ -46,7 +46,8 @@
 
 ---
 
-> ### $$\text{\textcolor[rgb]{0.118,0.565,1.000}{"You miss 100\\% of the shots you don't take." — Wayne Gretzky}}$$  
-> $$\text{\textcolor[rgb]{0.392,0.584,0.929}{— Michael Scott}}$$  
+> ### *"You miss 100% of the shots you don't take."*
+> *— Wayne Gretzky* 
+>> — Michael Scott
 
 <img src="https://raw.githubusercontent.com/Chaitanya-Keyal/Chaitanya-Keyal/output/snake.svg" alt="Snake animation">
