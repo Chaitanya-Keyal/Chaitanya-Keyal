@@ -47,7 +47,5 @@
 ---
 
 > ### *"You miss 100% of the shots you don't take."*
-> *— Wayne Gretzky* 
+> *— Wayne Gretzky*
 >> — Michael Scott
-
-<img src="https://raw.githubusercontent.com/Chaitanya-Keyal/Chaitanya-Keyal/output/snake.svg" alt="Snake animation">
