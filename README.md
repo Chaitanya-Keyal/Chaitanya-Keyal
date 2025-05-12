@@ -40,8 +40,8 @@
 
 ## 📊 GitHub Stats
 <img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&theme=transparent&border_radius=10&mode=weekly&card_width=469" alt="Streak">
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&show_icons=true&theme=transparent&border_radius=10&hide_title=true&card_width=469" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanya-Keyal&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&card_width=469&layout=compact" alt="Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=469&hide_title=true&show_icons=true&show=reviews,prs_merged" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=469&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages">
 
 ---
 
