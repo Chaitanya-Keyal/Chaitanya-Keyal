@@ -33,14 +33,15 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-FF3E00.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23FF007A.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%237F3FBF.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 
 ## 📊 GitHub Stats
 <img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&theme=transparent&border_radius=10&mode=weekly&card_width=469" alt="Streak">
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=469&hide_title=true&show_icons=true&show=reviews,prs_merged" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=469&hide_title=true&show_icons=true&show=prs_merged,reviews" alt="Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=469&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages">
 
 ---
