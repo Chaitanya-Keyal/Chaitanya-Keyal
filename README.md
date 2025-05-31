@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://gist.githubusercontent.com/Chaitanya-Keyal/be29fd1924d763abbc3b7f7f615c3569/raw/dcd44c2e2260530b4290b39067de98ad21ad10ee/quotes.json&theme=tokyonight&layout=socrates&font=Architect" /></div>
+<img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://gist.githubusercontent.com/Chaitanya-Keyal/be29fd1924d763abbc3b7f7f615c3569/raw/dcd44c2e2260530b4290b39067de98ad21ad10ee/quotes.json&theme=tokyonight&layout=socrates&font=Architect" />
 
 ## Github Stats
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=494&hide_title=true&show_icons=true&show=prs_merged,reviews" /> <img height="200px" src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=448&mode=weekly" />
