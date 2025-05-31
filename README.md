@@ -1,4 +1,10 @@
-## 💻 Tech Stack
+<div align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://gist.githubusercontent.com/Chaitanya-Keyal/be29fd1924d763abbc3b7f7f615c3569/raw/dcd44c2e2260530b4290b39067de98ad21ad10ee/quotes.json&theme=tokyonight&layout=socrates&font=Architect" /></div>
+
+## Github Stats
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=494&hide_title=true&show_icons=true&show=prs_merged,reviews" /> <img height="200px" src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=448&mode=weekly" />
+<img height="158px" src="https://github-readme-stats.vercel.app/api/wakatime?username=okaybro&theme=transparent&border_radius=10" /> <img height="158px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=480&layout=compact&include_all_commits=true&count_private=true" />
+
+## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -37,15 +43,3 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-## 📊 GitHub Stats
-<img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&theme=transparent&border_radius=10&mode=weekly&card_width=469" alt="Streak">
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=469&hide_title=true&show_icons=true&show=prs_merged,reviews" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanya-Keyal&theme=transparent&border_radius=10&card_width=469&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages">
-
----
-
-> ### *"You miss 100% of the shots you don't take."*
-> *— Wayne Gretzky*
->> — Michael Scott
