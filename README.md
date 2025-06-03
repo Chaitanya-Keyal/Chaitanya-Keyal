@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://gist.githubusercontent.com/Chaitanya-Keyal/7b1a09ac9a0c9d0d493897fd7273c305/raw/9df5b36e513a9985db55028725b54efa7aec2618/quotes.json&theme=tokyonight&layout=socrates&font=Architect)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/Chaitanya-Keyal/Chaitanya-Keyal/refs/heads/main/quotes.json&theme=tokyonight&layout=socrates&font=Architect)
 
 ## Github Stats
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=494&hide_title=true&show_icons=true&show=prs_merged,reviews" /> <img height="170px" src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=448&mode=weekly" />
