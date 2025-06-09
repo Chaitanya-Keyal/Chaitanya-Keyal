@@ -1,8 +1,9 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/Chaitanya-Keyal/Chaitanya-Keyal/refs/heads/main/quotes.json&theme=tokyonight&layout=socrates&font=Architect)
 
 ## Github Stats
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=494&hide_title=true&show_icons=true&show=prs_merged,reviews" /> <img height="170px" src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=448&mode=weekly" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=okaybro&hide_border=true&theme=transparent&layout=compact" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=430&layout=compact&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&hide_title=true&show_icons=true&show=prs_merged,reviews" />
+<img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&mode=weekly" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=okaybro&hide_border=true&theme=transparent&layout=compact" />
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
