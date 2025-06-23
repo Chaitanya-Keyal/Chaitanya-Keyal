@@ -3,7 +3,7 @@
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&hide_title=true&show_icons=true&show=prs_merged,reviews" />
 <img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&mode=weekly" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=okaybro&hide_border=true&theme=transparent&layout=compact" />
+<a href="https://wakatime.com/@okaybro"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=okaybro&hide_border=true&theme=transparent&layout=compact" /></a>
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
