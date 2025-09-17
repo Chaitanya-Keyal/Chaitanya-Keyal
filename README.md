@@ -5,7 +5,7 @@
 
 <a href="https://github.com/pulls?q=involves%3AChaitanya-Keyal+sort%3Aupdated-desc+is%3Apublic"><img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&mode=weekly" /></a>
 
-<a href="https://wakatime.com/@okaybro"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=okaybro&hide_border=true&theme=transparent&layout=compact" /></a>
+<a href="https://wakatime.com/@okaybro"><img src="https://github-readme-stats-okaybro.vercel.app/api/wakatime?username=okaybro&hide_border=true&theme=transparent&layout=compact" /></a>
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
