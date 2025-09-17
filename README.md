@@ -1,7 +1,7 @@
 [![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/Chaitanya-Keyal/Chaitanya-Keyal/refs/heads/main/quotes.json&theme=tokyonight&layout=socrates&font=Architect)](https://miro.medium.com/v2/1*nwV2Ugza_8u7Cfzm2bwfdg.gif)
 
 ## Github Stats
-<a href="https://github.com/issues?q=involves%3AChaitanya-Keyal+sort%3Aupdated-desc+is%3Apublic"><img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&hide_title=true&show_icons=true&show=prs_merged,reviews" /></a>
+<a href="https://github.com/issues?q=involves%3AChaitanya-Keyal+sort%3Aupdated-desc+is%3Apublic"><img src="https://github-readme-stats-okaybro.vercel.app/api?username=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&hide_title=true&show_icons=true&show=prs_merged,reviews" /></a>
 
 <a href="https://github.com/pulls?q=involves%3AChaitanya-Keyal+sort%3Aupdated-desc+is%3Apublic"><img src="https://nirzak-streak-stats.vercel.app?user=Chaitanya-Keyal&hide_border=true&theme=transparent&card_width=495&mode=weekly" /></a>
 
